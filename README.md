@@ -1,6 +1,7 @@
 # Movie App 🎬
 
 A simple React application to display popular movies using a movie API.
+Live demo: https://favorite-movie-app.netlify.app/
 
 ## Features
 - Fetches movies from an external API
