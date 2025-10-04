@@ -19,22 +19,21 @@ A simple React application to display popular movies using a movie API.
    ```bash
    git clone https://github.com/Salmaan-M/movie-app.git
 Navigate to the project folder:
-
-bash
-Copy code
 cd movie-app
-Install dependencies:
 
-bash
-Copy code
+
+Install dependencies:
 npm install
+
 Create a .env file in the root folder with your API key:
 
 env
-Copy code
+
 VITE_API_KEY=your_actual_api_key_here
 VITE_BASE_URL=https://api.yourservice.com/
-Start the development server:
+
+
+Start the development server
 
 bash
 Copy code
