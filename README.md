@@ -9,7 +9,7 @@ Live demo: https://favorite-movie-app.netlify.app/
 - Fetches movies from an external API
 - Shows movie posters, titles, and descriptions
 - Search functionality
-- Responsive design
+- Responsive design for all devices
 
 ## Tech Stack
 - React
